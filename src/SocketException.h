@@ -1,0 +1,3 @@
+class SocketException :public Exception {
+
+};
